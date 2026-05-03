@@ -1,0 +1,19 @@
+{
+  "name": "projeclp-m3",
+  "version": "1.0.0",
+  "description": "Lefant M3 Landing Page",
+  "homepage": "https://lefant.store",
+  "bugs": {
+    "url": "https://github.com/daudqwery/lefant.store/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daudqwery/lefant.store.git"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  }
+}
